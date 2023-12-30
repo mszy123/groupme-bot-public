@@ -1,4 +1,3 @@
-
 # GroupChat AI Bot
 
 This project implements a Flask-based AI bot to interact with a GroupMe chat. The bot, named Jarvis, leverages the OpenAI GPT-3.5 model to respond to specific triggers and engage in conversations within a group chat.
@@ -58,6 +57,3 @@ bashCopy code
 -   Ensure the proper setup of environment variables for `OPENAI_API_KEY` and `GROUPME_BOT_ID`.
 -   Customize the AI responses, triggers, and scenarios as needed within the codebase.
 
-----------
-
-This README provides an overview of your project, setup instructions, and guidance on using the bot within a GroupMe chat. Customize it further with additional details or explanations specific to your implementation.
