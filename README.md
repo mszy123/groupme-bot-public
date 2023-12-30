@@ -5,7 +5,7 @@ This project implements a Flask-based AI bot to interact with a GroupMe chat. Th
 ## Technologies Used
 
 -   **Flask**: Web framework used for handling HTTP requests and responses.
--   **OpenAI GPT-3.5**: AI language model used for generating conversational responses.
+-   **OpenAI GPT-3.5 and 4.0**: AI language model used for generating conversational responses.
 -   **requests**: Python library for making HTTP requests.
 -   **dotenv**: Python library for loading environment variables from a `.env` file.
 
