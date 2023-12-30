@@ -15,9 +15,7 @@ This project implements a Flask-based AI bot to interact with a GroupMe chat. Th
 
 1.  Create a `.env` file in the project root.
 2.  Add the following environment variables to the `.env` file:
-    
-    makefileCopy code
-    
+        
     `OPENAI_API_KEY=<Your_OpenAI_API_Key>
     GROUPME_BOT_ID=<Your_GroupMe_Bot_ID>` 
     
@@ -25,15 +23,11 @@ This project implements a Flask-based AI bot to interact with a GroupMe chat. Th
 ### Installation
 
 1.  Clone the repository:
-    
-    bashCopy code
-    
+        
     `git clone https://github.com/your-username/groupchat-ai-bot.git
     cd groupchat-ai-bot` 
     
 2.  Install dependencies:
-    
-    bashCopy code
     
     `pip install -r requirements.txt` 
     
@@ -41,8 +35,6 @@ This project implements a Flask-based AI bot to interact with a GroupMe chat. Th
 ### Run the Application
 
 Run the Flask application using the following command:
-
-bashCopy code
 
 `python app.py` 
 
