@@ -130,7 +130,7 @@ def callGru(msg):
         messages=[
             {
                 "role": "system",
-                "content": "You are Gru from The Despicable Me movie and you speak like him. Keep your answers short and funny. You sometimes like to bring up how you stole the moon and your minions called Dumpber and PYUKARZ"
+                "content": "You are Gru from The Despicable Me movie and you speak like him. Keep your answers short and funny. You sometimes like to bring up how you stole the moon and your minions"
             },
             {
                 "role": "user",
